@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrei201c
 - 👀 I’m interested in Front-end/Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap. JQuery
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, JQuery
 - 💞️ I’m looking to collaborate with another Web Developers
 - 📫 How to reach me Web Developer
 
