@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrei201c
 - 👀 I’m interested in Front end/Web Developement
 - 🌱 I’m currently learning "How to make girlfriend"
-- 💞️ I’m looking to collaborate on another Web Developers
+- 💞️ I’m looking to collaborate with another Web Developers
 - 📫 How to reach me Web Developer
 
 <!---
