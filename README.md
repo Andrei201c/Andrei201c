@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, JQuery
 - 💞️ I’m looking to collaborate with another Web Developers
 - 📫 How to reach me Web Developer
+- 🏆 Certification Web Responsive design you can verify here: https://freecodecamp.org/certification/ciuvat-andrei/responsive-web-design
+
 
 <!---
 Andrei201c/Andrei201c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
