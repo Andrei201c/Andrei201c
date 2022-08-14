@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, JQuery
 - 💞️ I’m looking to collaborate with another Web Developers
 - 📫 How to reach me Web Developer
-- 🏆 Certification Web Responsive design you can verify here: https://freecodecamp.org/certification/ciuvat-andrei/responsive-web-design
+- 🏆 Certification Responsive Web Design you can verify here: https://freecodecamp.org/certification/ciuvat-andrei/responsive-web-design
 
 
 <!---
