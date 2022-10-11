@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Andrei201c
-- 👀 I’m interested in Front-end/Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, JQuery
-- 💞️ I’m looking to collaborate with another Web Developers
-- 📫 How to reach me Web Developer
+I love my job, it's a fuc........it's good
 - 🏆 Certification Responsive Web Design you can verify here: https://freecodecamp.org/certification/ciuvat-andrei/responsive-web-design
 
 
